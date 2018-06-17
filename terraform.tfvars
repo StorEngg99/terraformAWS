@@ -5,3 +5,5 @@ size_a = 1
 size_b = 1
 device_name_a = "/dev/xvdba"
 device_name_b = "/dev/xvdbb"
+vpc_cidr = "10.0.0.0/16"
+vpc_tag = "Terraform Building VPC"

@@ -5,3 +5,5 @@ variable "size_a" {}
 variable "size_b" {}
 variable "device_name_a" {}
 variable "device_name_b" {}
+variable "vpc_cidr" {}
+variable "vpc_tag" {}
